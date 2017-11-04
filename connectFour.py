@@ -1,7 +1,5 @@
 '''Final Project - Connect Four
 Features a graphic interfaces and various levels of computer strategies 
-CS 111
-Lydia Hanson & Rachel Harris 
 '''
 
 import graphics
