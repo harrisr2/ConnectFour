@@ -1,2 +1,3 @@
 # ConnectFour
-Connect Four game with graphics and games play - Python
+Python 3.0
+Features object-oriendted programming, graphic modules, 
